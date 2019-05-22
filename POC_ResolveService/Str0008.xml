@@ -1,0 +1,24 @@
+﻿<SISMSG>
+  <SEGCAB>
+    <CD_LEGADO>INT</CD_LEGADO>
+    <TP_MANUT>I</TP_MANUT>
+    <CD_STATUS>D</CD_STATUS>
+    <NR_OPERACAO>JDCCMM000001</NR_OPERACAO>
+    <FL_DEB_CRED>D</FL_DEB_CRED>
+  </SEGCAB>
+  <STR0008>
+    <NumCtrlIF>JDCCMM000001</NumCtrlIF>
+    <TpCtDebtd>22</TpCtDebtd>
+    <AgDebtd>1</AgDebtd>
+    <CtDebtd>4744735</CtDebtd>
+    <TpPessoaDebtd>string</TpPessoaDebtd>
+    <NomCliDebtd>string</NomCliDebtd>
+    <TpCtCredtd>string</TpCtCredtd>
+    <TpPessoaCredtd>string</TpPessoaCredtd>
+    <VlrLanc>1</VlrLanc>
+    <CodIdentdTransf>string</CodIdentdTransf>
+    <DtMovto>string</DtMovto>
+    <DtAgendt>string</DtAgendt>
+    <HrAgendt>string</HrAgendt>
+  </STR0008>
+</SISMSG>
